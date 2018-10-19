@@ -1,5 +1,7 @@
 # Least-Square-Regression-Thesis
 
+#### See pdf above to read the full paper
+
 ### Goal:
 
 I sought to demonstrate the motivation, construction and application of Linear Least Square Regression.
