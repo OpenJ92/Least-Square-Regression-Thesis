@@ -1,6 +1,7 @@
 # Least-Square-Regression-Thesis
 
-#### See pdf above to read the full paper
+#### See Least Square Regressions and Model Building v7.pdf above to read the full paper
+Note: make live link
 
 ### Goal:
 
